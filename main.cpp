@@ -1,8 +1,7 @@
 #include <iostream>
 #include <memory>
 #include "mem_pool.h"
-#include "stdio.h"
-#include <string>
+
 
 class TestClass;
 
